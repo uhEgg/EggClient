@@ -1,12 +1,9 @@
 ## EggClient
 
-You can use the [editor on GitHub](https://github.com/uhEgg/EggClient/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Usage
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+EggClient is a easy-to-use Minecraft Client for 1.8.8 PvP.
 
 ```markdown
 Syntax highlighted code block
