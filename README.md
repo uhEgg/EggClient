@@ -17,9 +17,8 @@ Also, you need to launch Minecraft version 1.8.8 before installing EggClient.
 
 ## Windows Guide
 
-Once that's installed, go to my Github page (https://github.com/uhEgg/EggClient) and download the "EggClient.zip" file by clicking on this: 
-![Github Site](https://raw.githubusercontent.com/uhEgg/EggClient/main/github%20download.png)
-and then ![image](https://user-images.githubusercontent.com/92561247/153733785-a0dbc45f-f708-467f-8b92-93d9af9aa4f0.png)
+Once that's installed, head on over to my Discord Server (https://discord.gg/4NEyZG4uvB) and in Bot Commands, type the command `/get eggclient`, it will then request me to approve your download. This might take a few hours, but I should be able to approve (or deny) it in less than 24 hours. Once you get approved and you got the file, ![image](https://user-images.githubusercontent.com/92561247/153770409-9f7bcc78-e408-45ae-ba73-106d97de0b6e.png) (it is in DMs with the Eggo bot) you should download the file by clicking the `Download EggClient` button. You should get an EggClient.zip file. 
+
 Go to where the EggClient.zip was installed, and extract it by right-clicking (EggClient.zip) and click "Extract" or "Extract All"
 
 After that's done, you should get a folder named EggClient. Right click that folder and click 'copy'. We'll need that for later. Now we have to get to the .minecraft folder. On a Windows computer, do `Windows Key + R`. This will open 
