@@ -7,6 +7,8 @@ EggClient is a easy-to-use Minecraft Client for 1.8.8 PvP
 # Installation Guide
 `Video and MacOS Guide Coming Soon!🎥`
 
+**FOLLOW ALL DIRECTIONS CAREFULLY**
+
 ## Prerequisites
 Before you begin, download and install Java using one of these links:
 > Windows: https://download.oracle.com/java/17/archive/jdk-17.0.1_windows-x64_bin.exe
