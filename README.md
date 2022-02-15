@@ -5,7 +5,7 @@ EggClient is a easy-to-use Minecraft Client for 1.8.8 PvP
 ![The Main Menu](https://raw.githubusercontent.com/uhEgg/EggClient/main/eggclient%201.png)
 
 # Installation Guide
-`Video and MacOS Guide Coming Soon!🎥`
+`MacOS Guide Coming Soon!🎥`
 
 ## Video Guide for Windows (10/11)
 https://drive.google.com/file/d/1erIe7O21t0HsnteNpfEZjzPBMH5HcfPR/view?usp=sharing
