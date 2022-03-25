@@ -34,5 +34,10 @@ the Run application. Then, search `%appdata%`. Click Ok. Then open the .minecraf
 ## Load in Minecraft Launcher
 Open your Minecraft Launcher. On the top bar, click Installations. ![image](https://user-images.githubusercontent.com/92561247/153734002-7d544533-96f8-4a93-b8b7-2adc482ac3c5.png). Then click the "New Installation" button. Name your installation whatever you want, then on the Version, scroll down until you see `Release EggClient`. Click that. On the bottom of this menu, you should see the button for "More Options". Click that, and in Java Executable, put in `C:\Program Files\Java\jdk-17.0.1\bin\javaw.exe`. Now, press the Green "Create" button on the bottom right. You should now be able to see the Option for EggClient in the Play Menu. ![image](https://user-images.githubusercontent.com/92561247/153734116-a5dc5943-2a72-45fd-ab20-7e81d7cc0961.png) Now click Play and you should be able to launch the game!
 
+# Commonly Asked Questions
+
+**Q**: What are the keybinds for the mods?
+**A**: All of the keybinds can be found in the Options -> Controls in the top "EggClient" catagory. The default keybinds for the two mod-keybinds are `M` for the Mod Menu and Hold `F` for the Perspective Mod.
+
 ## Contact
 > For more information, contact Egg#9609 on Discord
